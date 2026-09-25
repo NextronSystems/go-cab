@@ -5,8 +5,8 @@ import (
 	"io"
 	"sync/atomic"
 
-	"github.com/secDre4mer/go-cab/mszip"
-	"github.com/secDre4mer/lzx"
+	"github.com/NextronSystems/go-cab/mszip"
+	"github.com/NextronSystems/lzx"
 )
 
 // folderReader provides a reusable reader on a cabinetFileFolder.

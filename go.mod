@@ -1,5 +1,5 @@
-module github.com/secDre4mer/go-cab
+module github.com/NextronSystems/go-cab
 
 go 1.20
 
-require github.com/secDre4mer/lzx v0.0.0-20250826110518-fedea00d45a5
+require github.com/NextronSystems/lzx v0.0.0-20260925113636-800c8721e177
